@@ -11,7 +11,7 @@ keywords: university of idaho, Potlatch, Idaho, digital collections
 email: ewilliamson@uidaho.edu
 
 # url variables
-url: https://www.lib.uidaho.edu
+url: https://kitstokes.github.io
 baseurl: /potlatch-portal
 repo-url: https://digital.lib.uidaho.edu
 repo-collection-ids: plcphotos!cities!whitepine!phs!spec_pot
