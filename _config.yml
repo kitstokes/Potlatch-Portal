@@ -12,7 +12,7 @@ email: ewilliamson@uidaho.edu
 
 # url variables
 url: https://www.lib.uidaho.edu
-baseurl: /digital/potlatch
+baseurl: /potlatch-portal
 repo-url: https://digital.lib.uidaho.edu
 repo-collection-ids: plcphotos!cities!whitepine!phs!spec_pot
 
