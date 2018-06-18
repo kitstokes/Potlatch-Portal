@@ -10,7 +10,7 @@ permalink: /about/
 
 # About {{ site.title }}
 
-Blah
+Browse all digital collection content related to Potlatch, Idaho
 
 ### Background
 
