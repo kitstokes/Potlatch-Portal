@@ -14,7 +14,7 @@ Browse all digital collection content related to Potlatch, Idaho
 
 ### Background
 
-Blah
+Potlatch, Idaho was founded in 1905 as a company town for the Potlatch Lumber Company. The sawmill, built in 1906, was one of the largest in the world at the time. The mill was highly successful in its day and it was not until 1981 that it was closed due to depleted forests and a stagnant lumber market.
 
 ### Data
 
